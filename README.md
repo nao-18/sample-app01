@@ -1,1 +1,1 @@
-# Greeting display app。
+# Greeting display app.
